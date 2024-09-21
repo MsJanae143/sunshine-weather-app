@@ -1,5 +1,10 @@
 body {
-  background-color: #f9f7fe;
+  background: linear-gradient(
+    90deg,
+    rgba(5, 171, 244, 1) 9%,
+    rgba(230, 108, 205, 1) 28%,
+    rgba(252, 245, 69, 1) 79%
+  );
   font-family: "Inria Sans", sans-serif;
 }
 
