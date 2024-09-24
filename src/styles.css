@@ -99,3 +99,34 @@ footer {
   font-size: 28px;
   margin-left: 5px;
 }
+
+.weather-forecast {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 40px;
+}
+
+.weather-forecast-day {
+  text-align: center;
+  color: darkblue;
+  font-size: 16px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+.weather-forecast-icon {
+  font-size: 38px;
+  text-align: center;
+}
+
+.weather-forecast-temperatures {
+  text-align: center;
+  color: #f65282;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.weather-forecast-numbers {
+  padding: 0 10px;
+}
