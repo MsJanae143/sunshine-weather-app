@@ -25,13 +25,13 @@ footer {
   border-top: 1px solid #f9f7fe;
   padding: 30px 0 0 0;
   text-align: center;
-  font-size: 12px;
-  color: rgba(0, 0, 0, 0.6);
+  font-size: 14px;
+  color: rgba(39, 33, 66, 0.5);
 }
 
 .weather-app {
   background: #f2d9e0;
-  max-width: 600px;
+  max-width: 670px;
   margin: 50px auto;
   padding: 35px;
   box-shadow: 0 30px 54px rgba(65, 50, 100, 0.08);
@@ -63,6 +63,7 @@ footer {
 }
 
 .weather-app-city {
+  color: darkblue;
   margin: 0;
   font-size: 38px;
   line-height: 48px;
@@ -72,7 +73,7 @@ footer {
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  color: rgba(39, 33, 66, 0.4);
+  color: rgba(39, 33, 66, 0.5);
 }
 
 .weather-app-details strong {
@@ -87,6 +88,7 @@ footer {
   font-size: 88px;
   line-height: 88px;
   font-weight: bold;
+  color: darkblue;
 }
 
 .weather-app-icon {
@@ -98,6 +100,7 @@ footer {
   margin-top: 13px;
   font-size: 28px;
   margin-left: 5px;
+  color: darkblue;
 }
 
 .weather-forecast {
